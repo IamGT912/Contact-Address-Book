@@ -1,1 +1,2 @@
 # Contact-Address-Book
+Make an application of creating an address book with attributes, contacts with names, phone numbers and email address. functions: add, update, or delete contacts, search for contacts by name or email or phone numbers, display a list of all contacts.
